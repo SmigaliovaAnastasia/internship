@@ -5,4 +5,4 @@ ___________________________________________________________________
 Put some conflicting text here.
 
 Hello and welcome!
-Conflict text.
+New text line.
