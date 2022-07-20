@@ -1,7 +1,5 @@
-## Some other changes
-The conflicting ones too
+## This is a simple settigs file probably necessary for future use.
+No conflicting lines yet.
+___________________________________________________________________
 
-Conflict here.
-
-Some more non-conflicting changes.
-
+Put some conflicting text here.
