@@ -1,4 +1,7 @@
-## This file will probably at some point contain
-settings for the corresponding project.
+## This file will probably at some no
+new text is added here
 
 Changes are made.
+
+Some more non-conflicting changes.
+
