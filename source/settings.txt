@@ -1,2 +1,4 @@
 ## This file will probably at some point contain
 settings for the corresponding project.
+
+Changes are made.
