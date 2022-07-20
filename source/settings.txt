@@ -1,5 +1,5 @@
-## This file will probably at some no
-new text is added here
+## Some other changes
+The conflicting ones too
 
 Changes are made.
 
