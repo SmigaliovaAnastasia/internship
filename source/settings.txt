@@ -1,7 +1,7 @@
-## This file will probably at some no
-new text is added here
+## This is a completely new text on 
+Dev branch
 
-Changes are made.
+Conflict here.
 
 Some more non-conflicting changes.
 
