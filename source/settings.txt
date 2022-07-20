@@ -1,8 +1,0 @@
-## This is a simple settigs file probably necessary for future use.
-No conflicting lines yet.
-___________________________________________________________________
-
-Put some conflicting text here.
-
-Hello and welcome!
-New text line.
