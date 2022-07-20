@@ -1,7 +1,7 @@
 ## Some other changes
 The conflicting ones too
 
-Changes are made.
+Conflict here.
 
 Some more non-conflicting changes.
 
